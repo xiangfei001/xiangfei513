@@ -1,0 +1,22 @@
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #C0C0C0;
+text-align:center
+}
+
+li{
+  borfer:2px solid blue;
+  display:inline-block;
+  margin:0.5rem;
+  float: center;
+border-right: 10px solid #bbb;
+}
+h2{
+  text-align:center
+}
+p{
+  text-align:center
+}
